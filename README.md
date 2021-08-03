@@ -3,6 +3,6 @@
 
 A simple Laravel API incl. simple Auth and search functionality.
 
-## License
+## License.
 
 This code is licensed under the [MIT license](https://opensource.org/licenses/MIT).
